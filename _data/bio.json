@@ -1,26 +1,25 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Aiden Woodard",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://github.com/aidenlkw.png",
+    "email": "aidenlkw@hawaii.edu",
+    "phone": "808-927-5456",
+    "website": "https://aidenlkw.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I am also studying for a Creative Computational Media certificate for game design. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "aidenlkw", "url": "http://github.com/aidenlkw" },
+      { "network": "linkedin", "username": "aidenlkw", "url": "https://www.linkedin.com/in/aiden-woodard-212667288/" },
+      { "network": "instagram", "username": "woodardaiden", "url": "http://instagram.com/woodardaiden" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Computer Science" },
+    { "name": "Information Technology" },
+    { "name": "Music/Composing" },
+    { "name": "Game Design" },
+    { "name": "Esports" }
   ],
   "skills": [
     {
