@@ -10,7 +10,7 @@ labels:
   - JavaScript
 ---
 
-## The World of Programming Languages
+## The Vast World of Programming Languages
 
 The world of programming is vast, filled with a myriad of different coding languages, each unique in its own way. As for my experience, I have only scratched the surface of this world. I have had experience with C, C++, and Java, as these are taught in the basic computer science pipeline at UH. Learning Java was quite difficult for me in the beginning, while C and C++ were a bit easier to understand, in my opinion. I was quite worried when tasked with a new language, but I was motivated as JavaScript is a very important language to have knowledge of.
 
