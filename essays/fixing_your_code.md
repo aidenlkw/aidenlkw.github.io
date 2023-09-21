@@ -12,7 +12,7 @@ labels:
   - Debugging
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="..essays/IntelliJ_IDEA_Icon.png">
+<img width="300px" class="rounded float-start pe-4" src="IntelliJ_IDEA_Icon.png">
 
 While programming languages vary, one aspect remains constant and essential to them - coding standards. Coding standards in software development have a big role in learning a programming language as they standardize coding for all. While some standards may feel a bit nit-picky, they are all important.
 
