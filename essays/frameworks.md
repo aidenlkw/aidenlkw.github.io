@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/stackoverflow-logo-300.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/bootstrap-icons.png">
 # The Power of UI Frameworks in Web Development
 
 User Interface design is a crucial part of web development, but it can be repetitive and time-consuming. This is where UI frameworks like Bootstrap 5 come in, simplifying the process and offering many benefits.
