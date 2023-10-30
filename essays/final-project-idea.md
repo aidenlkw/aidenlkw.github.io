@@ -22,11 +22,11 @@ There would be filters for class types like chemistry, math, etc.; filters for c
 Users would click buy which would need to be accepted by the seller, who would then contact the buyer via email ? to meet up for the book
 
 Possible mockup pages:
-Landing page – choosing the subject
-Subject page – shows all textbook listings in a grid 
-Seller page – filling out a form to post textbook; view own listings
-User page – shows bookmarked listings 
-Textbook page – shows description, image, and seller’s contact (email)
+* Landing page – choosing the subject
+* Subject page – shows all textbook listings in a grid 
+* Seller page – filling out a form to post textbook; view own listings
+* User page – shows bookmarked listings 
+* Textbook page – shows description, image, and seller’s contact (email)
 
 ## Use case ideas
 New user goes to landing page, logs in with UH email, gets to home page, sets up profile
