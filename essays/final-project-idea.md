@@ -7,7 +7,7 @@ labels:
   - Software Engineering
   - Meteor
 ---
-### BBB: Book Barter Bazaar
+# BBB: Book Barter Bazaar
 Authors: Aiden and Catelyn
 
 ## Overview
