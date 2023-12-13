@@ -4,7 +4,7 @@ type: essay
 title: "Standardizing Your Code"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-19
-published: true
+published: false
 labels:
   - Checkstyle
   - JavaScript
