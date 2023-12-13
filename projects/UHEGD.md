@@ -4,7 +4,7 @@ type: project
 image: img/uhe.png
 title: "UHE Game Dev Club"
 date: 2023
-published: true
+published: false
 labels:
   - Sound Design
   - Music Production
