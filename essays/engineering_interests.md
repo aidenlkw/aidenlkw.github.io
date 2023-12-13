@@ -4,7 +4,7 @@ type: essay
 title: "What Intrigues Me"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
-published: true
+published: false
 labels:
   - Software Engineering
   - JavaScript
