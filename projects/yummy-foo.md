@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/yummyfoo.png](https://github.com/aidenlkw/aidenlkw.github.io/blob/main/yummyfoologo.png?raw=true)
+image: img/yummyfoologo.png
 title: "Yummy Foo"
 date: 2023
 published: true
