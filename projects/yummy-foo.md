@@ -44,5 +44,4 @@ Our website homepage is linked here: [Yummy Foo](https://eat-sleep-fortnite-repe
 <div class="text-center p-4">
   <img width="1200px" src="https://github.com/aidenlkw/aidenlkw.github.io/blob/main/admin.jpg?raw=true">
   <img width="1200px" src="https://github.com/aidenlkw/aidenlkw.github.io/blob/main/edit.jpg?raw=true" >
-  <img width="1200px" src="https://github.com/kyesteele/kyesteele.github.io/blob/main/guide.jpg?raw=true" >
 </div>
