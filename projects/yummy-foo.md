@@ -4,7 +4,7 @@ type: project
 image: img/yummyfoo.png
 title: "Yummy Foo"
 date: 2023
-published: false
+published: true
 labels:
   - Web Design
   - Full Stack Application
