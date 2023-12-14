@@ -7,7 +7,7 @@ date: 2023-12-14
 published: true
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="software-engineering.png">
+<img width="300px" class="rounded float-start pe-4" src="https://github.com/aidenlkw/aidenlkw.github.io/blob/main/software-engineering.png?raw=true">
 # Exploring the Foundations: A Reflection on Software Engineering
 
 As we approach the end of my ICS 314 Software Engineering 1 class, I find myself reflecting on the copious amount of skills and techniques that I have acquired, realizing that I have barely touched the surface in terms of web application development. While the idea of creating web apps is essential to my work in the future, the foundation of this course is the teaching and growth of a deep understanding of software engineering concepts. In this essay, I will speak about the significance of open-source software development and configuration management, exploring their impacts beyond just web development.
