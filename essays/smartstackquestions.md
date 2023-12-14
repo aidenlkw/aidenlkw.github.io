@@ -33,7 +33,7 @@ For example, look to this made-up question: "VALORANT 1.23 - Massive frame drops
 
 This example comes from a user asking the question: ["'JavaPackage' object is not callable" error executing explain() in Pyspark 3.0.1 via Zeppelin.](https://stackoverflow.com/questions/65713299/javapackage-object-is-not-callable-error-executing-explain-in-pyspark-3-0)
 
-<code>
+```
 Q: I am running Pyspark 3.0.1 for Hadoop 2.7 in a Zeppelin notebook. In general all is well, however when I execute df.explain() on a DataFrame I get this error:
 
 Fail to execute line 3: df.explain()
@@ -50,11 +50,11 @@ Has anyone come across and resolved this error before in the context of explain?
 My spark/jars folder contents:
 
 (lists their spark/jars folder)
-</code>
+```
 
 The developer provides a clear title that specifies the software version (Pyspark 3.01 via Zeppelin) and the exact issue ('JavaPackage' object is not callable) they are encountering. They also include relevant code snippets and error messages, enabling helpers to offer precise solutions.
 
-<code>
+```
 A: I ran into this same issue on AWS with EMR 6.2.0 (also Spark 3.0.1 coincidentally?) and jupyter notebooks. The issue appears to be related to how pyspark is initialized. Specifically, the py4j Java imports.
 
 The following import is supposed to be executed while the notebook kernel is being initialized but seems to be skipped. You just need to run this once per session.
@@ -64,7 +64,7 @@ java_import(spark._sc._jvm, "org.apache.spark.sql.api.python.*")
 Now df.explain() works as expected.
 
 For future reference - when you see 'JavaPackage' object is not callable, it often means that the target Java class was not found. Either the class doesn't exist or the expected import hasn't been called.
-</code>
+```
 
 The asker received a very specific answer from someone who has encountered the exact problem before. This could have been because the asker was so specific in their question that the helper saw it and recognized the error as one they have seen before.
 
@@ -72,13 +72,13 @@ The asker received a very specific answer from someone who has encountered the e
 
 This example comes from a user asking the question: [linear-gradient syntax unclear.](https://stackoverflow.com/questions/70777494/linear-gradient-syntax-unclear)
 
-<code>
+```
 Q: I am trying to understand this pen, but I have difficulties understanding line 44-45 in the SCSS file:
 
 background: linear-gradient(var(--menu-link-active-color) 0 100%) left / 0 repeat;
 
 I looked up many websites, but I couldn't find anything about linear-gradient() with 3 parameters. And also the slash is very unclear. I would be happy to get a hint or an explanation what this is!
-</code>
+```
 
 In this instance, the title lacks specificity. It is not clear what this problem is pertaining to, so helpers may not click on it as they don’t know what it means. After clicking, the developer says that it is about a pen tool in CSS I believe but it is not entirely clear. The first example adheres to the "Object - Deviation" format, while the second example falls short. As expected, the first question received more focused and effective responses, whereas the second question asks for additional information and less-targeted assistance.
 
