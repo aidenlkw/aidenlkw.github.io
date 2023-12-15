@@ -1,0 +1,83 @@
+{
+  "basics": {
+    "name": "Aiden Woodard",
+    "label": "Student",
+    "picture": "https://github.com/aidenlkw.png",
+    "email": "aidenlkw@hawaii.edu",
+    "phone": "808-927-5456",
+    "website": "https://aidenlkw.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I am also studying for a Creative Computational Media certificate for game design. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "aidenlkw", "url": "http://github.com/aidenlkw" },
+      { "network": "linkedin", "username": "aidenlkw", "url": "https://www.linkedin.com/in/aiden-woodard-212667288/" },
+      { "network": "instagram", "username": "woodardaiden", "url": "http://instagram.com/woodardaiden" }
+    ]
+  },
+  "interests": [
+    { "name": "Computer Science" },
+    { "name": "Information Technology" },
+    { "name": "Music/Composing" },
+    { "name": "Game Design" },
+    { "name": "Esports" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Unity", "Git/GitHub", "FL Studio", "Unreal 5", "Blender" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021",
+      "endDate": "Present"
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa",
+      "position": "DNS Computer & Network Support Specialist",
+      "startDate": "2023-06",
+      "endDate": "Present",
+      "summary": "Tech help in Hamilton Library",
+      "highlights": [
+        "Fix and troubleshoot staff computers and devices, update and upgrade old hardware, use the command line to run certain apps, troubleshoot and code programs for different departments, record purchases and hardware locations in databases."
+      ]
+    },
+    {
+      "company": "Baskin-Robbins",
+      "position": "Shift Leader",
+      "startDate": "2022-06",
+      "endDate": "2023-06",
+      "summary": "",
+      "highlights": [
+        "Stocked shelves, fronted aisles, bagged groceries, cleaned (trash, mopping, etc.),   and helped customers. "
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Hawaii Youth Symphony",
+      "website": "https://hiyouthsymphony.org/",
+      "position": "Software Developer",
+      "startDate": "2018",
+      "endDate": "2021",
+      "summary": "Percussionist for the highest symphony, YS1",
+      "highlights": [
+        "Played in various venues on Oahu, Maui, Hawaii, and Kauai"
+      ]
+    },
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
